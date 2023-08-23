@@ -1,4 +1,4 @@
-# Capstone-Project
+# CapstoneProject
 Creating a Resnet-50 model to classify chest CT scan images into as infected by covid-19 or not.
 ## Steps :
 ## Import required Libraries
